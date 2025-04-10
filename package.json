@@ -1,0 +1,28 @@
+{
+  "name": "react_shivangi",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Shivangi Dutta",
+  "license": "ISC",
+  "description": "React series basics and advance",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivangi541/REACT_SHIVANGI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shivangi541/REACT_SHIVANGI/issues"
+  },
+  "homepage": "https://github.com/Shivangi541/REACT_SHIVANGI#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
