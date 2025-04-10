@@ -1,5 +1,8 @@
 /* This code snippet is using React to create and render elements in the DOM. Here's a breakdown of
 what it does: */
+
+import React from "react";
+import ReactDOM from "react-dom/client";
 const heading = React.createElement(
   "h1",
   { id: "heading" },
