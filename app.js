@@ -19,7 +19,7 @@ const nestedHeading = React.createElement(
   { id: "parent" },
   React.createElement("div", { id: "child" }, [
     React.createElement("h1", { className: "sibling1" }, "I am SHIVANGI "),
-    React.createElement("h2", { className: "sibling2" }, "I love ice cream"),
+    React.createElement("h2", { className: "sibling2" }, "I love chocolates"),
   ])
 );
 const root1 = ReactDOM.createRoot(document.getElementById("root1"));
