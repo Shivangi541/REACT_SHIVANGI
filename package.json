@@ -24,5 +24,9 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
-  }
+  },
+  "browserlist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions"
+  ]
 }
