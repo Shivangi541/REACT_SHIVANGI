@@ -13,3 +13,6 @@
 - build script for productin build
   -transpilation is done for jsx code by babel
 - babel is installed by parcel in thenode modules
+- two types of react compoonents
+- class types and functional component
+- react component is a normal javascript function
